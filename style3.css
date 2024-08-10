@@ -1,0 +1,25 @@
+.input-box{
+    padding: 4px 50px;
+    margin: 20px;
+    align-self: center;
+}
+
+.weather-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10vw;
+}
+
+.weather-img{
+    width: 20%;
+    height: 20%;
+}
+
+#searchbtn{
+    border: none;
+    color: #fff;
+    background-color: #2980b9;
+    font-size: 0.7vw;
+    padding: 0.5vw 3vh;
+}
